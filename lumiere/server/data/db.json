@@ -1,0 +1,178 @@
+{
+  "photos": [
+    {
+      "id": "1519741497674-611481863552",
+      "cat": "Wedding",
+      "title": "First Vows",
+      "ar": "4/5",
+      "src": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1494790108377-be9c29b29330",
+      "cat": "Portrait",
+      "title": "Golden Hour",
+      "ar": "3/4",
+      "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1506905925346-21bda4d32df4",
+      "cat": "Nature",
+      "title": "Above the Clouds",
+      "ar": "4/3",
+      "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1469334031218-e382a71b716b",
+      "cat": "Fashion",
+      "title": "Runway Light",
+      "ar": "3/4",
+      "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1488646953014-85cb44e25828",
+      "cat": "Travel",
+      "title": "Wandering",
+      "ar": "1/1",
+      "src": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1492684223066-81342ee5ff30",
+      "cat": "Event",
+      "title": "Night of Lights",
+      "ar": "4/3",
+      "src": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1511285560929-80b456fea0bc",
+      "cat": "Wedding",
+      "title": "The Aisle",
+      "ar": "3/4",
+      "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1507003211169-0a1dd7228f2d",
+      "cat": "Portrait",
+      "title": "Quiet Strength",
+      "ar": "4/5",
+      "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1441974231531-c6227db76b6e",
+      "cat": "Nature",
+      "title": "Forest Cathedral",
+      "ar": "3/4",
+      "src": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1534528741775-53994a69daeb",
+      "cat": "Fashion",
+      "title": "Editorial No. 4",
+      "ar": "4/5",
+      "src": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1476514525535-07fb3b4ae5f1",
+      "cat": "Travel",
+      "title": "Lake Mornings",
+      "ar": "4/3",
+      "src": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=1800&q=75"
+    },
+    {
+      "id": "1530103862676-de8c9debad1d",
+      "cat": "Event",
+      "title": "Celebration",
+      "ar": "1/1",
+      "src": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=900&q=75",
+      "full": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=1800&q=75"
+    }
+  ],
+  "plans": [
+    {
+      "name": "Basic",
+      "price": 25000,
+      "photos": 50,
+      "hours": 3,
+      "extras": [
+        "1 photographer",
+        "Online gallery",
+        "Basic colour grading"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": 55000,
+      "photos": 150,
+      "hours": 6,
+      "extras": [
+        "2 photographers",
+        "Online gallery + USB",
+        "Cinematic colour grading",
+        "Pre-shoot consultation"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Luxury",
+      "price": 95000,
+      "photos": 400,
+      "hours": 12,
+      "extras": [
+        "Lead + assistant",
+        "Fine-art album",
+        "Drone coverage",
+        "Same-day highlights",
+        "Priority support"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Priya & Arjun",
+      "role": "Wedding clients",
+      "img": "1438761681033-6461ffad8d80",
+      "stars": 5,
+      "text": "Alexander caught moments we did not even know happened. Every photo feels like a scene from a film. We cry happy tears each time we open the album.",
+      "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&q=75",
+      "id": "r0"
+    },
+    {
+      "name": "Daniel Foster",
+      "role": "Brand founder",
+      "img": "1500648767791-00dcc994a43e",
+      "stars": 5,
+      "text": "Our product launch images were crisp, elegant and delivered ahead of schedule. Sales on the new line jumped within a week.",
+      "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=75",
+      "id": "r1"
+    },
+    {
+      "name": "Sofia Martin",
+      "role": "Fashion model",
+      "img": "1534528741775-53994a69daeb",
+      "stars": 5,
+      "text": "He knows how to direct without making you feel stiff. My portfolio finally looks the way I always imagined it.",
+      "src": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=75",
+      "id": "r2"
+    },
+    {
+      "name": "Rahul Menon",
+      "role": "Event organiser",
+      "img": "1507003211169-0a1dd7228f2d",
+      "stars": 4,
+      "text": "Calm, professional and invisible when needed. Guests loved the candid shots and we had highlights the same night.",
+      "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=75",
+      "id": "r3"
+    }
+  ],
+  "bookings": []
+}
